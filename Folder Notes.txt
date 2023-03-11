@@ -1,0 +1,8 @@
+python-ds-practice
+	Python Data Structure Practice
+
+python-oo-practice
+	Python Object Orientation Practice
+
+python-syntax
+	Python Syntax Practice
